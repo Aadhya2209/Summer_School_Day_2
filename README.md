@@ -21,6 +21,7 @@ Stored in a separate `style.css` file and linked to the HTML.
 → Purpose: Handled the majority of styling including layout, shadows, borders, and hover effects. This keeps the code clean, reusable, and organized.
 
 ────────────────────────────────────────
+
 🎯 Selectors Used & Their Roles:
 ────────────────────────────────────────
 
