@@ -42,3 +42,6 @@ I built a modern, interactive profile card to represent myself as a **Web Develo
 - ✅ Shadow & border enhancements
 
 ---
+
+![Screenshot 2025-06-23 230942](https://github.com/user-attachments/assets/2a7810f8-232d-457d-a517-d23992d55bf5)
+
